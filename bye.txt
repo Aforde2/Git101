@@ -1,0 +1,1 @@
+farewell git commit -am adds additional text to bye.txt echo oh hey I didn't see you there git add hello-again.txt git commit -m creates additional greeting file
